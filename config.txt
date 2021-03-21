@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Name = Jhon
 Number = 10
+=======
+Name = Jhon cena
+Number = 105
+>>>>>>> b111d271f84704d0ad83ba17a9d8d6cf0471d7b8
