@@ -1,2 +1,2 @@
 Name = Jhon
-Number = 100
+Number = 10
